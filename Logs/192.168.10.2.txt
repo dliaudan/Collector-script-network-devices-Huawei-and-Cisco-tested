@@ -1,0 +1,16 @@
+
+  -----------------------------------------------------------------------------     
+  User last login information:     
+  -----------------------------------------------------------------------------
+  Access Type: SSH      
+  IP-Address : 192.168.10.1 ssh     
+  Time       : 2023-04-06 02:23:02-08:00     
+  -----------------------------------------------------------------------------
+<TEST_ROUTER>display memory-usage 
+ Memory utilization statistics at 2023-04-06 02:23:28 957 ms 
+ System Total Memory Is: 159383552 bytes
+ Total Memory Used Is: 128318784 bytes
+ Memory Using Percentage Is: 80%
+<TEST_ROUTER>dir cfcard: 
+Error: Wrong device "cfcard:"
+<TEST_ROUTER>
